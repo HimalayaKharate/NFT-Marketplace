@@ -1,5 +1,5 @@
 
-## AI NFT GENERATOR
+## AI based NFT Marketplace
 Generate NFTs just with few clicks
 Enter text to get a image and then generate NFTs
 of that image.
