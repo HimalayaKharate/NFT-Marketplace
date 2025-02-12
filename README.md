@@ -15,11 +15,6 @@ of that image.
 
 ## Installation
 
-### Clone project 
-```
-git clone https://github.com/developer-pritam/TechHacks3.0.git
-```
-
 ### Front End
 
 ```
